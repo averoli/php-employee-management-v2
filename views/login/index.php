@@ -9,7 +9,10 @@
 </head>
 
 <body>
+    <?php require_once 'views/header.php' ?>
+
     <h1>This is the login</h1>
+
 </body>
 
 </html>
